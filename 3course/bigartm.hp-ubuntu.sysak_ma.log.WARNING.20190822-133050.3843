@@ -1,0 +1,9 @@
+Log file created at: 2019/08/22 13:30:50
+Running on machine: hp-ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0822 13:30:50.345212  3882 helpers.cc:221] File already exists: school_batches/aaaaae.batch
+W0822 13:30:50.355136  3880 helpers.cc:221] File already exists: school_batches/aaaaab.batch
+W0822 13:30:50.362985  3877 helpers.cc:221] File already exists: school_batches/aaaaac.batch
+W0822 13:30:50.370225  3876 helpers.cc:221] File already exists: school_batches/aaaaad.batch
+W0822 13:30:50.379943  3875 helpers.cc:221] File already exists: school_batches/aaaaaa.batch
+W0822 13:33:45.707675  3843 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 476 vs 0 vs 476 vs 0;

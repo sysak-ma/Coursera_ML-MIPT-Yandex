@@ -1,0 +1,33 @@
+Log file created at: 2019/08/22 13:05:11
+Running on machine: hp-ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0822 13:05:11.082718  3382 c_interface.cc:127] Logging enabled to .
+I0822 13:05:11.082880  3382 c_interface.cc:128] BigARTM version: v0.10.0
+I0822 13:05:11.082937  3382 c_interface.cc:271] Pass MasterModelConfig: topic_name_size=1, score_config_size=1, num_processors=0, pwt_name=pwt, nwt_name=nwt, num_document_passes=10, reuse_theta=no, cache_theta=no, opt_for_avx=yes, disk_cache_path= to ArtmCreateMasterModel
+I0822 13:05:11.082979  3382 instance.cc:401] MasterModelConfig.processors_count is automatically set to 8
+I0822 13:05:11.083163  3421 processor.cc:58] Processor thread started
+I0822 13:05:11.083179  3420 processor.cc:58] Processor thread started
+I0822 13:05:11.083308  3423 processor.cc:58] Processor thread started
+I0822 13:05:11.083324  3424 processor.cc:58] Processor thread started
+I0822 13:05:11.083431  3382 c_interface.cc:274] Creating MasterModel (id=1)...
+I0822 13:05:11.083343  3422 processor.cc:58] Processor thread started
+I0822 13:05:11.083632  3426 processor.cc:58] Processor thread started
+I0822 13:05:11.083659  3427 processor.cc:58] Processor thread started
+I0822 13:05:11.083495  3425 processor.cc:58] Processor thread started
+I0822 13:05:11.084266  3420 processor.cc:66] Processor thread stopped
+I0822 13:05:11.084276  3420 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.085325  3421 processor.cc:66] Processor thread stopped
+I0822 13:05:11.085335  3421 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.085779  3422 processor.cc:66] Processor thread stopped
+I0822 13:05:11.085789  3422 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.086536  3423 processor.cc:66] Processor thread stopped
+I0822 13:05:11.086547  3423 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.087617  3424 processor.cc:66] Processor thread stopped
+I0822 13:05:11.087628  3424 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.088002  3425 processor.cc:66] Processor thread stopped
+I0822 13:05:11.088009  3425 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.088949  3426 processor.cc:66] Processor thread stopped
+I0822 13:05:11.088964  3426 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.090054  3427 processor.cc:66] Processor thread stopped
+I0822 13:05:11.090078  3427 processor.cc:67] Total number of processed batches: 0
+I0822 13:05:11.090160  3382 c_interface.cc:339] Disposing MasterComponent (id=1)...

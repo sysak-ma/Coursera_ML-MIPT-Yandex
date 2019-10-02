@@ -1,0 +1,8 @@
+Log file created at: 2019/08/22 13:29:50
+Running on machine: hp-ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0822 13:29:50.999047  3814 helpers.cc:221] File already exists: school_batches/aaaaab.batch
+W0822 13:29:51.006269  3818 helpers.cc:221] File already exists: school_batches/aaaaae.batch
+W0822 13:29:51.013721  3815 helpers.cc:221] File already exists: school_batches/aaaaaa.batch
+W0822 13:29:51.021241  3816 helpers.cc:221] File already exists: school_batches/aaaaad.batch
+W0822 13:29:51.029850  3819 helpers.cc:221] File already exists: school_batches/aaaaac.batch
